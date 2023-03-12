@@ -1,0 +1,25 @@
+{
+  "name": "notify-build-webpack-plugin",
+  "version": "1.0.0",
+  "description": "Build Notifier Plugin for Webpack",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "webpack",
+    "plugin",
+    "webpack-plugin",
+    "notify",
+    "build"
+  ],
+  "author": "Vaibhav Tandon",
+  "license": "ISC",
+  "dependencies": {
+    "node-notifier": "^10.0.1"
+  },
+  "devDependencies": {
+    "webpack": "^5.76.1",
+    "webpack-cli": "^5.0.1"
+  }
+}
